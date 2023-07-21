@@ -1,0 +1,28 @@
+{
+	// temas
+	"workbench.colorTheme": "One Dark Pro",
+	// "workbench.colorTheme": "Platzi Theme Classic",
+	// Color
+	"peacock.remoteColor": "#D00000",
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#D00000",
+		"activityBar.activeBorder": "#ffffff",
+		"activityBar.background": "#D00000",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#ffffff",
+		"activityBarBadge.foreground": "#15202b",
+		"sash.hoverBorder": "#D00000",
+		"statusBar.background": "#D00000",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#D00000",
+		"statusBarItem.remoteBackground": "#D00000",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"titleBar.activeBackground": "#D00000",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveBackground": "#D0000099",
+		"titleBar.inactiveForeground": "#e7e7e799",
+		"commandCenter.border": "#e7e7e799"
+	},
+	// "files.watcherInclude": ["$kitql"] // Enable fast intellisense of a .gitignore path! :)
+}
